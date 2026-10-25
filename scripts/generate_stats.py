@@ -83,6 +83,7 @@ def stats_card(user, repos):
         ("Pull requests", cc["totalPullRequestContributions"]),
         ("Public repositories", user["repositories"]["totalCount"]),
     ]
+    rows = [row for row in rows if row[1]]
     body = []
     for i, (label, value) in enumerate(rows):
         y = 82 + i * 24
