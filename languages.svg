@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-label="Most Used Languages">
+  <rect x="0.5" y="0.5" width="439" height="199" rx="12" fill="#0b1120" stroke="#1e293b"/>
+  <text x="24" y="38" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f8fafc">Most Used Languages</text>
+  <rect x="24" y="48" width="36" height="3" rx="1.5" fill="#38bdf8"/>
+  <clipPath id="bar"><rect x="24" y="70" width="392" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
+    <rect x="24.00" y="70" width="253.21" height="10" fill="#3178c6"/>
+    <rect x="276.71" y="70" width="94.76" height="10" fill="#e34c26"/>
+    <rect x="370.97" y="70" width="14.12" height="10" fill="#f1e05a"/>
+    <rect x="384.59" y="70" width="11.15" height="10" fill="#f34b7d"/>
+    <rect x="395.24" y="70" width="10.73" height="10" fill="#3572A5"/>
+    <rect x="405.48" y="70" width="8.45" height="10" fill="#663399"/>
+    <rect x="413.43" y="70" width="3.07" height="10" fill="#475569"/>
+  </g>
+  <circle cx="29" cy="107" r="5" fill="#3178c6"/><text x="42" y="112" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#cbd5e1">TypeScript</text><text x="204" y="112" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="end">64.5%</text>
+  <circle cx="229" cy="107" r="5" fill="#e34c26"/><text x="242" y="112" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#cbd5e1">HTML</text><text x="404" y="112" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="end">24.0%</text>
+  <circle cx="29" cy="133" r="5" fill="#f1e05a"/><text x="42" y="138" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#cbd5e1">JavaScript</text><text x="204" y="138" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="end">3.5%</text>
+  <circle cx="229" cy="133" r="5" fill="#f34b7d"/><text x="242" y="138" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#cbd5e1">C++</text><text x="404" y="138" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="end">2.7%</text>
+  <circle cx="29" cy="159" r="5" fill="#3572A5"/><text x="42" y="164" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#cbd5e1">Python</text><text x="204" y="164" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="end">2.6%</text>
+  <circle cx="229" cy="159" r="5" fill="#663399"/><text x="242" y="164" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#cbd5e1">CSS</text><text x="404" y="164" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="end">2.0%</text>
+  <circle cx="29" cy="185" r="5" fill="#475569"/><text x="42" y="190" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#cbd5e1">Other</text><text x="204" y="190" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="end">0.7%</text>
+</svg>
